@@ -1,19 +1,22 @@
 # frontend_pruebatecnica_optima_inmobiliaria
 Repositorio frontend de la prueba tecnica para la empresa optima inmobiliaria
 # Base de datos (prueba_tecnica) tabla usuarios, solo hay 1 usuario
-![Captura desde 2023-09-20 09-59-49](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/88f949ac-9088-4a89-85ad-460150cde746)
-4bd4-8324-36486b54dd47)
+![last](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/dccae3d6-216b-4f63-8cb8-d28c1acaae94)
 
-# Al darle al registrar a usuario , Juan Zapata , se guarda el usuario en la base de datos 
-![register_frontend](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/cd111b5c-2a7a-40fd-82d3-ddd0598d5254)
+
+# Al darle al registrar a usuario , Xavier Zevallos , se guarda el usuario en la base de datos 
+![login_last](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/168907ce-9dd4-4dc1-8bd1-9b17046411ef)
+
 
 # Usuario Juan Zapata agregegado a la base de datos
-![nuevousuario](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/f874c648-fb7e-409e-9dd3-73fb00d5977e)
+![Captura desde 2023-09-20 10-02-37](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/e226a081-f148-463e-a51f-f3bca27cc392)
 
 
 # El usuario se registra en el SigIn , cambia el estado de Cuenta por el nombre del usuario 
-![login_frontend](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/20a453d4-3de1-41dd-ba11-29f3a673e602)
+![7014b2df-49e6-4b32-9e90-ae3589d6a853](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/59b36207-6c98-4999-bc6c-2b4065e2a2e6)
+
 
 # Cuando el usuario se loguea lo envia al home
 
-![usuario_logeado](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/68f627d8-fc22-43d6-a8b6-0f7362ff9c9d)
+![Captura desde 2023-09-20 10-06-40](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/9b2a8466-218d-4388-9ec2-4ef30adab316)
+
