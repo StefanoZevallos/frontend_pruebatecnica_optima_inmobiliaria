@@ -1,5 +1,7 @@
 # frontend_pruebatecnica_optima_inmobiliaria
 Repositorio frontend de la prueba tecnica para la empresa optima inmobiliaria
+# Realizado con React y Next js
+
 # Base de datos (prueba_tecnica) tabla usuarios, solo hay 1 usuario
 ![last](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/dccae3d6-216b-4f63-8cb8-d28c1acaae94)
 
