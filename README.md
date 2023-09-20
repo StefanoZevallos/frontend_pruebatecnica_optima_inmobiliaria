@@ -1,7 +1,8 @@
 # frontend_pruebatecnica_optima_inmobiliaria
 Repositorio frontend de la prueba tecnica para la empresa optima inmobiliaria
-# Base de datos (prueba_tecnica) , no aparece el usuario Juan Zapata
-![bd_frontend](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/3add352d-cc82-4bd4-8324-36486b54dd47)
+# Base de datos (prueba_tecnica) tabla usuarios, solo hay 1 usuario
+![Captura desde 2023-09-20 09-59-49](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/88f949ac-9088-4a89-85ad-460150cde746)
+4bd4-8324-36486b54dd47)
 
 # Al darle al registrar a usuario , Juan Zapata , se guarda el usuario en la base de datos 
 ![register_frontend](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/cd111b5c-2a7a-40fd-82d3-ddd0598d5254)
