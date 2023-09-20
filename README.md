@@ -8,7 +8,7 @@ Repositorio frontend de la prueba tecnica para la empresa optima inmobiliaria
 ![login_last](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/168907ce-9dd4-4dc1-8bd1-9b17046411ef)
 
 
-# Usuario Juan Zapata agregegado a la base de datos
+# Usuario Xavier Reyes agregegado a la base de datos
 ![Captura desde 2023-09-20 10-02-37](https://github.com/StefanoZevallos/frontend_pruebatecnica_optima_inmobiliaria/assets/107054283/e226a081-f148-463e-a51f-f3bca27cc392)
 
 
